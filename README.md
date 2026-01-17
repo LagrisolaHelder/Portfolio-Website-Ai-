@@ -31,6 +31,8 @@ A modern, minimalist, and responsive portfolio built with a focus on clean code 
 - ⚡ **Performance:** Lightweight and fast-loading with minimal dependencies.
 - 🎬 **Animations:** Smooth entry transitions using Animate.css.
 
+
+![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 ## 📂 Project Structure
 
 ```text
